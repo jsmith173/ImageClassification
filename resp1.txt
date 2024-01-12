@@ -1,0 +1,17 @@
+keras softmax result how to interpret
+-------------------------------------
+
+The softmax function is commonly used in neural networks to convert the output of the last layer into a probability distribution over predicted classes. The output of the softmax function is an array of probabilities, with each element representing the probability of the corresponding class. The sum of all the probabilities is 1.0 ³⁵.
+
+To interpret the output of the softmax function, we can take the index of the highest probability as the predicted class. For example, if the output of the softmax function is [0.1, 0.4, 0.5], then the predicted class is the one with the highest probability, which is the third class with a probability of 0.5 ¹.
+
+When using accuracy as a metric, we compare the predicted class with the true class. If the predicted class matches the true class, then the prediction is considered correct. The accuracy is the ratio of the number of correct predictions to the total number of predictions. When the output layer activation is softmax, we will normally get floating probability predictions, and in very very little chance will we get integer probability predictions like [0, 0, 1]. So we can use accuracy as a metric when using softmax as activation ¹.
+
+I hope this helps! Let me know if you have any other questions. 😊
+
+Source: Conversation with Bing, 1/11/2024
+(1) Keras Softmax | Softmax Function and Layers using Tensorflow - EDUCBA. https://www.educba.com/keras-softmax/.
+(2) intuition - What is an intuitive interpretation for the softmax .... https://stats.stackexchange.com/questions/552375/what-is-an-intuitive-interpretation-for-the-softmax-transformation.
+(3) python - Keras softmax output and accuracy - Stack Overflow. https://stackoverflow.com/questions/63093045/keras-softmax-output-and-accuracy.
+(4) Understanding the softmax activation function - Bartosz Mikulski. https://mikulskibartosz.name/understanding-the-softmax-activation-function.
+(5) Softmax layer - Keras. https://keras.io/api/layers/activation_layers/softmax/.

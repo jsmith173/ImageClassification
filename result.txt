@@ -1,0 +1,60 @@
+>> Starting predictions...
+1/1 [==============================] - 0s 93ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.00% 0.00% 100.00% 0.00% 0.00% ]
+ROSE1.JPG most likely belongs to ROSES with a 100.00 percent confidence.
+
+1/1 [==============================] - 0s 26ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.00% 0.00% 99.92% 0.00% 0.08% ]
+ROSE2.JPG most likely belongs to ROSES with a 99.92 percent confidence.
+
+1/1 [==============================] - 0s 36ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.00% 0.00% 99.99% 0.00% 0.01% ]
+ROSE3.JPG most likely belongs to ROSES with a 99.99 percent confidence.
+
+1/1 [==============================] - 0s 17ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.10% 97.03% 0.00% 2.72% 0.16% ]
+SUNF1.JPG most likely belongs to DANDELION with a 97.03 percent confidence.
+
+1/1 [==============================] - 0s 19ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [8.84% 0.00% 0.39% 90.77% 0.00% ]
+SUNF2.JPG most likely belongs to SUNFLOWERS with a 90.77 percent confidence.
+
+1/1 [==============================] - 0s 10ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.00% 0.07% 0.00% 99.93% 0.00% ]
+SUNF3.JPG most likely belongs to SUNFLOWERS with a 99.93 percent confidence.
+
+1/1 [==============================] - 0s 18ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.00% 0.00% 0.00% 0.00% 100.00% ]
+TULIP1.JPG most likely belongs to TULIPS with a 100.00 percent confidence.
+
+1/1 [==============================] - 0s 17ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.00% 0.00% 0.31% 0.00% 99.69% ]
+TULIP2.JPG most likely belongs to TULIPS with a 99.69 percent confidence.
+
+1/1 [==============================] - 0s 24ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.00% 0.00% 0.00% 0.00% 100.00% ]
+TULIP3.JPG most likely belongs to TULIPS with a 100.00 percent confidence.
+
+1/1 [==============================] - 0s 12ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [0.01% 31.51% 68.48% 0.00% 0.00% ]
+CAT1.JPG most likely belongs to ROSES with a 68.48 percent confidence.
+
+1/1 [==============================] - 0s 22ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [39.34% 56.49% 3.75% 0.01% 0.41% ]
+DOG1.JPG most likely belongs to DANDELION with a 56.49 percent confidence.
+
+1/1 [==============================] - 0s 10ms/step
+['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
+All items distribution = [2.42% 93.18% 1.89% 0.59% 1.92% ]
+DOG2.JPG most likely belongs to DANDELION with a 93.18 percent confidence.
